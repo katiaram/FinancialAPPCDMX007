@@ -169,7 +169,7 @@ Para el hacker edition puedes elegir una o varias de estas opciones:
   que ser mobile-friendly. Despliega el código en GitHub Pages o Heroku.
 - Escribe un post en Medium contando tu proceso de investigación.
 - Crea un video mostrando el demo del app, aquí algunos ejemplos:
-  - [Genius Scan](https://youtu.be/wKqnB6_Z-J0)
+  - [Genius Scan](https://www.youtube.com/watch?v=6zLP2iOPmMk)
   - [Nequi](https://www.youtube.com/watch?v=BDLAXvSQCZ8)
   - [Simple Bank](https://www.youtube.com/watch?v=0eqD5o6422M)
   - [Pocket](https://www.youtube.com/watch?v=MoJHYNKmS2U)
