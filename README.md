@@ -38,7 +38,7 @@ Manager del equipo les brinda el contexto:
   alrededor de 6 meses de data. Hoy estamos en el proceso de entender los
   resultados iniciales y de sacar una segunda iteración del producto. Y para eso
   las hemos contratado. Toda la documentación de este producto la tenemos en una
-  carpeta de [Google Drive](https://drive.google.com/drive/u/0/folders/1NWf4701uKDsCK0eLNI8RXEocrI1g1zqd). Les doy acceso.
+  carpeta de [Google Drive](https://drive.google.com/drive/folders/1gV6PwrT6SZigVTJ67q8W-dFzGTLePUyK). Les doy acceso.
 
 > Necesitamos traer una propuesta del nuevo diseño en dos semanas porque tenemos
   que presentarla a nuestro Gerente General en la reunión trimestral. Es
