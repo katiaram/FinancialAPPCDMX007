@@ -52,7 +52,7 @@ Manager del equipo les brinda el contexto:
 
 ### Recursos
 
-En esta carpeta de [Google Drive](https://drive.google.com/drive/u/0/folders/1NWf4701uKDsCK0eLNI8RXEocrI1g1zqd) y en los siguientes
+En esta carpeta de [Google Drive](https://drive.google.com/drive/folders/1gV6PwrT6SZigVTJ67q8W-dFzGTLePUyK) y en los siguientes
 links, encontrarán:
 
 - Los user persona primario y secundario del proyecto
