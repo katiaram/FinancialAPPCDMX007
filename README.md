@@ -11,12 +11,17 @@
 
 ## Problemas encontrados tanto a nivel de negocio como a nivel de usuario
 
-## Problemas a nivel usuario:
+## Los problemas a nivel usuario detectados:
 
 * Modelo mental en Mexico con respecto a AHORRO.
+* Las personas dicen estar interesadas en AHORRAR y en la Educación Financiera, pero de las personas encuestadas no ahorrar y de las entrevistas ninguno tiene un app de Finanzas y ahorro.
 
-https://docs.google.com/forms/d/1GlXRyJfYnRW6W7m8I51HZrxr1Jr5R7NoHghHqlHuZMM/edit#responses
+Encuestas que se generaron para definir lo anterior
 
+  - [Encuesta 1](https://docs.google.com/spreadsheets/d/1RD8MGlApMsD8YH5jvKm2CKP9xMHvwYCstNh6eY6WKuE/edit?usp=sharing)
+  - [Encuesta 2](https://docs.google.com/forms/d/1GlXRyJfYnRW6W7m8I51HZrxr1Jr5R7NoHghHqlHuZMM/edit#responses)
+  - [Encuesta 3](https://docs.google.com/forms/d/1BEYdN-v3hKXt-vFC3nA_x4siaKFQmB5KFenh2ZoxAzU/edit#responses)
+  - [Estudio INEGI](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2018/OtrTemEcon/ENIF2018.pdf)
 
 ## Problemas a nivel negocio:
 
