@@ -1,5 +1,60 @@
 # Aplicación financiera
 
+![preview app de finanzas](https://github.com/katiaram/FinancialAPPCDMX007/blob/master/1app.JPG)
+
+## Objetivos iniciales del proyecto
+
+* Rediseñar una Aplicación móvil cuyo objetivos es permitir a sus usuarios visualizar sus gastos mensuales y fomentar el ahorro. 
+* Definir si es viable duplicar el  presupuesto de Facebook Ads.
+
+![preview app de finanzas](https://github.com/katiaram/FinancialAPPCDMX007/blob/master/22.JPG)
+
+## Problemas encontrados tanto a nivel de negocio como a nivel de usuario
+
+## Problemas a nivel usuario:
+
+* Modelo mental en Mexico con respecto a AHORRO.
+
+https://docs.google.com/forms/d/1GlXRyJfYnRW6W7m8I51HZrxr1Jr5R7NoHghHqlHuZMM/edit#responses
+
+
+## Problemas a nivel negocio:
+
+* No hay interés por la Aplicación.
+* Las descargas no han sido las ideales.
+* Los pocos usuarios que descargar la App, no la utilizan.
+* No hay beneficios económicos hasta el momento.
+
+![preview app de finanzas](https://github.com/katiaram/FinancialAPPCDMX007/blob/master/16.JPG)
+![preview app de finanzas](https://github.com/katiaram/FinancialAPPCDMX007/blob/master/15.JPG)
+
+## Recomendaciones de próximos pasos para el banco con respecto al app (estas recomendaciones tendrán que ser sustentadas por tu investigación):
+ 
+# Qué modificaciones se deberían hacer:
+
+* Nuestra propuesta es ofrecer un servicio de INVERSIÓN, mediante la aplicación para llegar a más usuarios.
+* Cuáles deberían ser los próximos desarrollos.
+* Una App en Android.
+* En qué se debería invertir el presupuesto de marketing.
+* Facebook Ads, enfocada a diferentes segmentos de la población.
+
+![preview app de finanzas](https://fotos.subefotos.com/e72e0d1ef20e23a643635bea3c9b25fao.jpg)
+![preview app de finanzas](https://github.com/katiaram/FinancialAPPCDMX007/blob/master/20.JPG)
+![preview app de finanzas](https://github.com/katiaram/FinancialAPPCDMX007/blob/master/22.JPG)
+![preview app de finanzas](https://github.com/katiaram/FinancialAPPCDMX007/blob/master/24.JPG)
+![preview app de finanzas](https://github.com/katiaram/FinancialAPPCDMX007/blob/master/27.JPG)
+![preview app de finanzas](https://github.com/katiaram/FinancialAPPCDMX007/blob/master/26.JPG)
+
+## Links
+
+[Encuesta 1](https://docs.google.com/spreadsheets/d/1RD8MGlApMsD8YH5jvKm2CKP9xMHvwYCstNh6eY6WKuE/edit?usp=sharing)
+[Encuesta 2](https://docs.google.com/forms/d/1GlXRyJfYnRW6W7m8I51HZrxr1Jr5R7NoHghHqlHuZMM/edit#responses)
+[Encuesta 3](https://docs.google.com/forms/d/1BEYdN-v3hKXt-vFC3nA_x4siaKFQmB5KFenh2ZoxAzU/edit#responses)
+[Presentacion Completa](https://drive.google.com/open?id=1FyOX95e5rqAKmYoA7Lo_RkP9KGRMd2t8t3NopYct9cM)
+[Estudio INEGI](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2018/OtrTemEcon/ENIF2018.pdf)
+[Prototipo](https://www.figma.com/proto/KWk1gM60xqL7V4hBJ8POgD/proyecto-2-banca-(Copy)?node-id=2943%3A957&scaling=scale-down)
+
+
 ## Preámbulo
 
 El banco más importante del país ha lanzado una nueva aplicación móvil al
